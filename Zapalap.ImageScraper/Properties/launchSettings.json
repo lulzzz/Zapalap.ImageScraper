@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Zapalap.ImageScraper": {
+      "commandName": "Project",
+      "commandLineArgs": "http://gazeta.pl"
+    }
+  }
+}

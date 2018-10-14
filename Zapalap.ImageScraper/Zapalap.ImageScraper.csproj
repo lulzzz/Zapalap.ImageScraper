@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Zapalap.ImageScraper</AssemblyName>
+    <RootNamespace>Zapalap.ImageScraper</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.3.9" />
+    <PackageReference Include="HtmlAgilityPack" Version="1.8.9" />
+  </ItemGroup>
+
+</Project>
