@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zapalap.Scrapy", "Zapalap.Scrapy\Zapalap.Scrapy.csproj", "{AC740F04-84E9-4F0A-A751-A08EEAF479EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC740F04-84E9-4F0A-A751-A08EEAF479EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC740F04-84E9-4F0A-A751-A08EEAF479EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC740F04-84E9-4F0A-A751-A08EEAF479EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC740F04-84E9-4F0A-A751-A08EEAF479EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1F2871-38DC-43BA-AA11-F189D606ACB0}
+	EndGlobalSection
+EndGlobal
